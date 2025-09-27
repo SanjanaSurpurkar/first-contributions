@@ -1,5 +1,6 @@
 # Contributors
 - [Hani Gannam](https://github.com/HaniGannam) - My First Contribution to the open source world :0
+- [Kamel Rmada](https://github.com/Young-Xster) - A great start to a great career :)
 - [Kanishka Udayanga](https://github.com/Kanishkau4) - Hi, I'm from Sri Lanka and this is my first Contribution.
 - [Bhushan Kor](https://github.com/BKCODE2003) - College Basic Contribution Assignment
 - [Muhammet Alperen Sivgin](https://github.com/MuhammetSec-Exilex) - This is the start
@@ -8,7 +9,8 @@
 - [Vanessa C.](https://github.com/vscortez) - This will be my first contribution to open-source coding!!
 - [InsaneAbhinav](https://github.com/InsaneAbhinav) - First Git Contribution GG boys & girls!!!
 - [VarshaSahithi] (https://github.com/sahithi103) - yayy !!!
-- [Harshit Kumar] (https://github.com/harshitclub) - Full Stack Developer | Starting Open Source Contribution
+- [Harshit Kumar] (https://github.com/harshitclub) - Full Stack Developer | Starting Open Source 
+- [Vishwas Hibare] (https://github.com/vishwas-615) - Full Stack Developer | Crazy...!
 -[ismail_cem_tuzun]- this is something like a contribution :) THIS IS THE WAY
 - [Leoniex](https://github.com/Leoneix) - first contri:)
 -[051821](https://github.com/051821) - This is my first open-source contribution
@@ -3271,5 +3273,9 @@ I am Lakshya Sharma and making my first open source contribution
 <<<<<<< HEAD
 - [Tung Nguyen](https://github.com/tungnguyen21012000-sys)
 - [William Ong](https://github.com/William9923) - Learning to be better. Thanks for the learning opportunity!
+<<<<<<< HEAD
 =======
 >>>>>>> parent of a502425b (add personal contributions (#104278))
+=======
+- [Alex](https://github.com/rizespb) - Hi everyone! It's my first contribution. Congretes me!
+>>>>>>> 9393790e7d45be8b008bd0e76b92d5074286f2a2
